@@ -1,0 +1,5 @@
+# This folder is for the NSL-KDD dataset files (.npy).
+# The dataset is publicly available and not included in this repository.
+# Place the following files here:
+# X_train_norm.npy, X_train_norm_seq.npy, X_val_norm.npy, X_val_norm_seq.npy,
+# X_test.npy, y_test.npy, X_test_seq.npy, y_test_seq.npy, feature_names.npy
