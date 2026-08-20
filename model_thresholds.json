@@ -1,0 +1,5 @@
+{
+    "standard_ae_threshold": 0.08056914061307907,
+    "lstm_ae_threshold": 21.324522018432617,
+    "bilstm_ae_threshold": 21.41048812866211
+}
